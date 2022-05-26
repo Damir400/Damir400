@@ -1,11 +1,9 @@
 # 👦🏻 Hello![Visitors](https://visitor-badge.glitch.me/badge?page_id=Damir400) 
 
 
-👨🏻‍💻 I am currently working on study projects for my master's program
+👨🏻‍💻 I am currently learning Spring MVC and Spring Boot
 
-👨🏻‍🎓 I am now learning to apply machine learning in solving various problems, working with Unity and Blender
-
-Proficient: С#, Python, Unity, Blender, Machine Learning and Neural Networks
+Proficient: Java, Maven, Spring Core, Spring Hibernate(CRUD), PostgreSQL.
 
 ## 😄 About me 
 
